@@ -1,12 +1,13 @@
 import Head from 'next/head';
 import styles from './home.module.scss';
+import Link from 'next/link';
 
 
 export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Login</title>
+        <title>SmartHome | Login</title>
       </Head>
       <div className={styles.leftl}>
             <header>
@@ -17,13 +18,13 @@ export default function Home() {
       <div className={styles.lg}>
         <form>
           <h1>US<span>U</span>ARIO</h1>
-          <input type="text" name='Login' id='name' required />
+          <input type="text" name='Login' id='name'  />
           <br/>
           <h1>SE<span>N</span>HA</h1>
-          <input type="password" name="Senha" id="pass" required />
-
+          <input type="password" name="Senha" id="pass"  />
+          <Link href='/button'>
           <button type='submit'>EN<span>T</span>RAR</button>
-
+          </Link>
         </form>
       </div>
     </>

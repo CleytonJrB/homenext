@@ -1,0 +1,37 @@
+.but1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background:#CFCFCF;
+
+    color: #2F4956;
+    
+    
+
+    height: 100vh;
+    
+    button{
+
+        width: 5rem;
+        height: 2.5rem;
+        border-radius: 8px;
+        color: #2F4956;
+        background-color: #ffff;
+        margin: 0 0 0 30px;
+        font-size: 1rem;
+
+        opacity: 50%;
+
+        transition: opacity 0.2s;
+
+        &:hover{
+            opacity: 1;
+            
+        }
+
+    }
+    span{        
+        color: #97DEFF;
+    }
+}

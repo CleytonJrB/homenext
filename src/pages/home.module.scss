@@ -49,7 +49,8 @@
             background: rgba(255, 255, 255, 0.2);
             border-radius: 8px;
             padding: 0 10px;
-            font-size: 16px;   
+            font-size: 18px;  
+            font-family: 'Roboto',sans-serif; 
             
         }
         button{
@@ -64,10 +65,11 @@
             font-size: 18px;
             line-height: 22px;
 
-            transition: filter 0.2s;
+            opacity: 60%;
 
+            transition: opacity 0.2s;          
             &:hover{
-                filter: brightness(0.92);
+                opacity: 1;
             }
             span{
                 color: #2F4956;
@@ -75,7 +77,6 @@
 
         }
         
-    }    
-   
+    }       
 }
 
