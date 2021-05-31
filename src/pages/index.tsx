@@ -1,7 +1,7 @@
 import Head from 'next/head';
-import styles from './home.module.scss';
 import Link from 'next/link';
 
+import styles from './home.module.scss';
 
 export default function Home() {
   return (
@@ -10,11 +10,12 @@ export default function Home() {
         <title>SmartHome | Login</title>
       </Head>
       <div className={styles.leftl}>
-            <header>
-                <img src="smarthomes.svg" alt="Smart Home"/>
-            </header>
+        <section>
+          <p>SEJA <span>BEM</span> VINDO(A)!</p>
+          <h5>Vamos <span>comecar</span> a <span>C</span>odar.</h5>
+        </section>
       </div>
-
+      
       <div className={styles.lg}>
         <form>
           <h1>US<span>U</span>ARIO</h1>
