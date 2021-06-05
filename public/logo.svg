@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="280"
+   height="120"
+   viewBox="0 0 74.083333 31.750001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Users\Cleyt\Documents\11Projetos\logo2.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.640646"
+     inkscape:cx="137.8214"
+     inkscape:cy="108.37114"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false"
+     borderlayer="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-global="false"
+     units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid863" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g862"
+       transform="translate(-1.5029466,-0.20039289)">
+      <path
+         style="fill:#2f4956;fill-opacity:1;stroke:none;stroke-width:0.0847212"
+         d="M 14.904338,26.520614 C 14.802733,26.475184 13.568835,25.434264 12.162339,24.207458 10.755846,22.980648 8.2904207,20.830845 6.6836147,19.430115 5.043126,18.000021 3.745124,16.81823 3.723322,16.734857 c -0.02135,-0.08166 -0.0114,-0.220612 0.02213,-0.308785 0.03352,-0.08817 1.165145,-1.124391 2.514715,-2.302711 1.3495737,-1.178319 3.2712267,-2.856227 4.270341,-3.72868 4.179361,-3.6495267 4.278154,-3.7323787 4.500274,-3.7740477 0.326446,-0.06124 0.427532,-0.0066 1.163664,0.629033 0.723955,0.625121 0.883552,0.838587 0.819063,1.095534 -0.02577,0.102719 -1.115333,1.099291 -2.97052,2.7170277 -1.611392,1.405146 -3.54779,3.095122 -4.3031043,3.755503 -0.755314,0.660382 -1.52238,1.327727 -1.704588,1.482992 l -0.33129,0.282298 1.914331,1.671375 c 1.0528813,0.919258 3.1205973,2.720189 4.5949243,4.002074 1.474324,1.281886 2.716895,2.413257 2.761266,2.514159 0.04437,0.100901 0.06014,0.24816 0.03504,0.327242 -0.05949,0.187436 -1.307163,1.298963 -1.59267,1.418875 -0.261892,0.109995 -0.27496,0.110093 -0.512553,0.0039 z"
+         id="path885" />
+      <path
+         style="fill:#2f4956;fill-opacity:1;stroke:none;stroke-width:0.085;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 49.408947,29.639638 C 48.527575,29.41992 48.312786,29.318796 48.199545,29.07026 48.127795,28.912772 49.388323,25.047091 55.466262,6.7853961 l 1.414534,-4.2500979 0.248968,-0.133305 0.248965,-0.133305 0.847833,0.192958 c 0.950661,0.216363 1.184029,0.323713 1.297088,0.596662 0.0873,0.210765 0.589439,-1.344139 -5.426538,16.8036898 -3.401493,10.260965 -3.25153,9.857153 -3.694287,9.947656 -0.09426,0.01926 -0.541501,-0.05724 -0.993878,-0.170016 z"
+         id="path887" />
+      <path
+         style="fill:#2f4956;fill-opacity:1;stroke:none;stroke-width:0.0847212"
+         d="m 60.869522,26.587951 c -0.235813,-0.09645 -1.517584,-1.228034 -1.602748,-1.414952 -0.05048,-0.110786 -0.04946,-0.206206 0.0034,-0.322313 0.04133,-0.09072 0.9023,-0.887492 1.913265,-1.770618 3.825031,-3.341351 5.838918,-5.096134 6.58064,-5.733994 0.421643,-0.362601 0.768678,-0.675032 0.771186,-0.694291 0.0024,-0.01926 -2.077833,-1.850067 -4.62298,-4.068455 -2.892731,-2.521352 -4.642418,-4.0927149 -4.667226,-4.1915579 -0.07111,-0.283348 0.06058,-0.439079 1.125826,-1.331275 0.542719,-0.454557 0.788974,-0.520949 1.110179,-0.299315 0.09322,0.06432 1.125762,0.951629 2.29454,1.971794 2.888541,2.5212589 4.947762,4.3162429 6.952666,6.0605079 0.926547,0.806096 1.725768,1.541767 1.77605,1.634826 0.05028,0.09306 0.0731,0.242189 0.05071,0.331404 -0.02535,0.100955 -0.836465,0.857531 -2.14792,2.00347 -5.727573,5.004708 -8.769442,7.648562 -8.893656,7.729961 -0.203025,0.133043 -0.458526,0.170661 -0.643975,0.09481 z"
+         id="path889" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="15.300709"
+         y="19.396698"
+         id="text893"><tspan
+           sodipodi:role="line"
+           id="tspan891"
+           x="15.300709"
+           y="19.396698"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Satisfy;-inkscape-font-specification:Satisfy;stroke-width:0.264583"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Satisfy;-inkscape-font-specification:Satisfy;fill:#2f4956;fill-opacity:1"
+             id="tspan902">C</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Satisfy;-inkscape-font-specification:Satisfy;fill:#97deff;fill-opacity:1"
+             id="tspan898">c</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Satisfy;-inkscape-font-specification:Satisfy;fill:#2f4956;fill-opacity:1"
+             id="tspan900">odar</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import Image from 'next/image';
 
 import styles from './home.module.scss';
 
@@ -7,23 +8,27 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>SmartHome | Login</title>
+        <title>Ccodar | Login</title>
       </Head>
       <div className={styles.leftl}>
         <section>
-          <p>SEJA <span>BEM</span> VINDO(A)!</p>
-          <h5>Vamos <span>comecar</span> a <span>C</span>odar.</h5>
+      <Image
+        src="/logo.svg"
+        alt="Logo"
+        width={400}
+        height={400}
+      />
         </section>
       </div>
       
       <div className={styles.lg}>
         <form>
-          <h1>US<span>U</span>ARIO</h1>
+          <label htmlFor="usuario">Us<span>u</span>ario<span>:</span></label>
           <input type="text" name='Login' id='name'  />
           <br/>
-          <h1>SE<span>N</span>HA</h1>
+          <label htmlFor="senha">Se<span>n</span>ha<span>:</span><a href="#">Esqueceu <span>a</span> senha?</a></label>
           <input type="password" name="Senha" id="pass"  />
-          <Link href='/button'>
+          <Link href='/dashboard'>
           <button type='submit'>EN<span>T</span>RAR</button>
           </Link>
         </form>
