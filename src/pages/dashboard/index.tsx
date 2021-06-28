@@ -21,7 +21,7 @@ export default function Dash() {
       </header>
       <section className={styles.dashb}>
         <div>
-          <h1></h1>
+          <h1>alou</h1>
         </div>
         <div>
          <h1></h1>

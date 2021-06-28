@@ -47,6 +47,7 @@
   width: 55px;
   height: 55px;
   background-size: 55px 55px;
+  
   background-image: url('https://github.com/cleytonjrb.png');
   
   border-radius: 50%;
@@ -56,19 +57,18 @@
 }
 .dashb{
  display: grid;
- align-self: center;
+
  grid-template-areas: 'div div div';
- margin-left: 8%;
+ gap: 40px;
+ justify-items: center;
+ align-items: center;
+ margin-top: 50px;
 
  div{
-
-  display: block;
-
   background-color: #C4C4C4;
 
-  max-width: 400px;
+  width: 400px;
   height: 380px;
-  margin-top: 10%;
   
   border-radius: 20px;
  }
