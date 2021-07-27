@@ -36,7 +36,7 @@
     width: 800px;   
     background: #F7F8FC;
     opacity: 90%;
-    border-radius: 45px;
+    border-radius: 25px;
     box-shadow: 10px 10px 30px #97DEFF;
     
     form{
@@ -100,8 +100,8 @@
     button{
       width: 420px;
       height: 40px;
-      background: rgba(151, 222, 255, 0.7);
-      border-radius: 15px;
+      background: #97DEFF;
+      border-radius: 10px;
       padding: 0.5rem 4rem;
       color: #ffff;
       margin-top: 30px;
@@ -109,12 +109,12 @@
       font-size: 18px;
       line-height: 22px;
       outline: none;
-      box-shadow: 8px 8px 50px gray;
-      opacity: 60%;
-      
+      opacity: 70%;
+    
       transition: opacity 0.2s;          
       &:hover{
-        opacity: 1;
+        opacity: 100%;
+        border: 1px solid white;
       }
       span{
         color: #2F4956;

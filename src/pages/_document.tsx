@@ -1,5 +1,7 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 
+import '../services/firebase';
+
 export default class MyDocument extends Document{
     render(){
         return(

@@ -22,7 +22,7 @@ export default function Home() {
       <div className={styles.lg}>
         <div className={styles.formst}>
           <form>
-            <label htmlFor="usuario">Us<span>u</span>ario<span>:</span></label>
+            <label htmlFor="usuario">E-<span>m</span>ail<span>:</span></label>
             <input type="text" name="Login" id="name" />
             <label htmlFor="senha">Se<span>n</span>ha<span>:</span><a href="#">Esqueceu <span>a</span> senha<span>?</span></a></label>
             <input type="password" name="Senha" id="pass" />
