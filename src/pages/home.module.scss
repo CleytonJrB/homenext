@@ -111,7 +111,7 @@
       outline: none;
       opacity: 70%;
     
-      transition: opacity 0.2s;          
+      transition: opacity 0.4s,border 0.5s;          
       &:hover{
         opacity: 100%;
         border: 1px solid white;
