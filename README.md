@@ -1,7 +1,7 @@
-## Home | Login
+## Ccodar | Login
 
 ![Home view](.github/ScreenHome.png)
 
-## Home | Dashboard
+## Ccodar | Dashboard
 ![Dashboard view](.github/ScreenDashboard.png)
 
